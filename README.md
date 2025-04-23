@@ -1,10 +1,7 @@
 # CRYPTOGRAPHY
 HILL CIPHER
 EX. NO: 1(C) AIM:
- 
-
 IMPLEMENTATION OF HILL CIPHER
- 
 ## To write a C program to implement the hill cipher substitution techniques.
 
 ## DESCRIPTION:
